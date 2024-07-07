@@ -1,7 +1,7 @@
 <div>
   <a href=""><img align="center" alt="Gmail" height="50" width="50" src="https://img.icons8.com/color/48/gmail-new.png"  target="_blank"></a>
   <a href=""><img align="center" alt="Linkedin" height="50" width="50" src="https://img.icons8.com/color/48/linkedin.png" target="_blank"></a> 
-  <a href=""><img align="center" alt="kaggle" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kaggle/kaggle-original-wordmark.svg" target="_blank"></a> 
+  <a href="https://www.kaggle.com/fbiofiuza"><img align="center" alt="Kaggle" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kaggle/kaggle-original-wordmark.svg" target="_blank"></a> 
 <div>
 
 <sub>**Junior Data Scientist**</sub>
