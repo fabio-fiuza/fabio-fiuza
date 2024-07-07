@@ -10,7 +10,7 @@
 
 I am an undergraduate student in Computer Science at the Federal University of Ceará, passionate about the world of data and its applications. Currently, I am seeking opportunities to apply all the knowledge I have acquired. My background includes: **Business Analytics**, **DataViz**, **Machine Learning**, and **Web Scraping**.
 
-### **Code**
+## **Code**
 
 <div style="display: inline_block">
   <img align="center" alt="Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
@@ -18,9 +18,9 @@ I am an undergraduate student in Computer Science at the Federal University of C
   <img align="center" alt="CSS3" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg">
 </div>
 
-***
 
- ### **Database**
+
+ ## **Database**
 
 <div>
   <img align="center" alt="MySQL" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg">
@@ -29,9 +29,8 @@ I am an undergraduate student in Computer Science at the Federal University of C
   <img align="center" alt="MongoDB" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg">
 <div>
 
-***
 
-### **Tools and Clouds**
+## **Tools and Clouds**
 
 <div>
    <a href=""><img align="center" alt="Databricks" height="40" width="40" src="https://asset.brandfetch.io/idSUrLOWbH/idQeSz8UHv.svg?updated=1668081624532"></a>
