@@ -14,11 +14,13 @@ I am an undergraduate student in Computer Science at the Federal University of C
 
 <div style="display: inline_block">
   <img align="center" alt="Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="C" height="40" width="40" src="https://devicon-website.vercel.app/api/c/original.svg">
   <img align="center" alt="HTML5" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg">
   <img align="center" alt="CSS3" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg">
+
+
+  
 </div>
-
-
 
  ## **Database**
 
@@ -29,6 +31,14 @@ I am an undergraduate student in Computer Science at the Federal University of C
   <img align="center" alt="MongoDB" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg">
 <div>
 
+## **DataViz**
+
+<div>
+  <a href=""><img align="center" alt="Power BI" height="40" width="40" src="https://img.icons8.com/color/480/power-bi-2021.png"></a>
+  <a href=""><img align="center" alt="Matplotlib" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg"></a> 
+  <a href=""><img align="center" alt="Seaborn" height="40" width="40" src="https://cdn.worldvectorlogo.com/logos/seaborn-1.svg"></a> 
+  <a href=""><img align="center" alt="Plotly" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/plotly/plotly-original.svg"></a> 
+<div>
 
 ## **Tools and Clouds**
 
