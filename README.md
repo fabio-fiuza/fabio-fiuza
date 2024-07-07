@@ -6,7 +6,7 @@
 
 <sub>**Junior Data Scientist**</sub>
 
-## About Me
+## **About Me**
 
 I am an undergraduate student in Computer Science at the Federal University of Ceará, passionate about the world of data and its applications. Currently, I am seeking opportunities to apply all the knowledge I have acquired. My background includes: **Business Analytics**, **DataViz**, **Machine Learning**, and **Web Scraping**.
 
