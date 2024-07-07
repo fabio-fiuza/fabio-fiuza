@@ -41,6 +41,6 @@ I am an undergraduate student in Computer Science at the Federal University of C
 
 <div>
 <a href="https://github.com/fabio-fiuza">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabio-fiuza&layout=compact&langs_count=10&theme=dracula"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=fabio-fiuza&show_icons=true&theme=dracula&include_all_commits=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabio-fiuza&layout=compact&langs_count=10&theme=blueberry&hide_progress=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=fabio-fiuza&show_icons=true&theme=blueberry&include_all_commits=true&hide=contribs"/>
 </div>
