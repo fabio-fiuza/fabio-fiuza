@@ -27,8 +27,9 @@ I am an undergraduate student in Computer Science at the Federal University of C
 <div>
   <img align="center" alt="MySQL" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg">
     <img align="center" alt="PostgreSQL" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg">
-   <img align="center" alt="SQLite" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg">
-  <img align="center" alt="MongoDB" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg">
+    <img align="center" alt="SQLite" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg">
+    <img align="center" alt="MongoDB" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg">
+    <img align="center" alt="DuckDb" height="40" width="40" src="https://vectorseek.com/wp-content/uploads/2023/12/DuckDB-Icon-Logo-Vector.svg-.png">
 <div>
 
 ## **DataViz**
@@ -38,7 +39,9 @@ I am an undergraduate student in Computer Science at the Federal University of C
   <a href=""><img align="center" alt="Matplotlib" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg"></a> 
   <a href=""><img align="center" alt="Seaborn" height="40" width="40" src="https://cdn.worldvectorlogo.com/logos/seaborn-1.svg"></a> 
   <a href=""><img align="center" alt="Plotly" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/plotly/plotly-original.svg"></a> 
+  
 <div>
+
 
 ## **Tools and Clouds**
 
