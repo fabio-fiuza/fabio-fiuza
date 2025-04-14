@@ -2,6 +2,7 @@
   <a href="mailto:fabiio.fiuza@gmail.com"><img align="center" alt="Gmail" height="50" width="50" src="https://img.icons8.com/color/48/gmail-new.png" target="_blank"></a>
   <a href="https://www.linkedin.com/in/fábio-fiúza-7846b2275/"><img align="center" alt="Linkedin" height="50" width="50" src="https://img.icons8.com/color/48/linkedin.png" target="_blank"></a> 
   <a href="https://www.kaggle.com/fbiofiuza"><img align="center" alt="Kaggle" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kaggle/kaggle-original-wordmark.svg" target="_blank"></a> 
+  <a href="https://www.kaggle.com/fbiofiuza"><img align="center" alt="Kaggle" height="50" width="50" src="https://img.icons8.com/?size=100&id=59ar0n9vAicz&format=png&color=000000" target="_blank"></a> 
 <div>
 
 <sub>**Data Scientist**</sub>
