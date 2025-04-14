@@ -11,6 +11,39 @@
 
 I am an undergraduate student in Computer Science at the Federal University of Ceará, passionate about the world of data and its applications. Currently, I am seeking opportunities to apply all the knowledge I have acquired. My background includes: **Business Analytics**, **DataViz**, **Machine Learning**, and **Web Scraping**.
 
+<table>
+  <tr>
+    <td align="center">
+      <h3>Analytics</h3>
+      <img src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" alt="Excel" width="40" height="40"/>
+      <img src="https://img.icons8.com/color/48/power-bi.png" alt="Power BI" width="40" height="40"/>
+      <img src="https://img.icons8.com/color/48/python.png" alt="Python" width="40" height="40"/>
+    </td>
+    <td align="center">
+      <h3>Database</h3>
+      <img src="https://img.icons8.com/color/48/postgreesql.png" alt="PostgreSQL" width="40" height="40"/>
+      <img src="https://img.icons8.com/color/48/mongodb.png" alt="MongoDB" width="40" height="40"/>
+    </td>
+    <td align="center">
+      <h3>⚙ETL/ELT</h3>
+      <img src="https://img.icons8.com/color/48/apache-spark.png" alt="Apache Spark" width="40" height="40"/>
+      <img src="https://img.icons8.com/color/48/apache-airflow.png" alt="Apache Airflow" width="40" height="40"/>
+      <img src="https://img.icons8.com/color/48/apache-kafka.png" alt="Apache Kafka" width="40" height="40"/>
+    </td>
+    <td align="center">
+      <h3>Cloud</h3>
+      <img src="https://img.icons8.com/color/48/amazon-web-services.png" alt="AWS" width="40" height="40"/>
+      <img src="https://img.icons8.com/color/48/databricks.png" alt="Databricks" width="40" height="40"/>
+    </td>
+    <td align="center">
+      <h3>Deploy</h3>
+      <img src="https://img.icons8.com/color/48/docker.png" alt="Docker" width="40" height="40"/>
+      <img src="https://mlflow.org/img/mlflow-black.svg" alt="ML Flow" width="60" height="40"/>
+      <img src="https://img.icons8.com/color/48/fastapi.png" alt="FastAPI" width="40" height="40"/>
+    </td>
+  </tr>
+</table>
+
 ## **Code**
 
 <div style="display: inline_block">
