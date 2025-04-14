@@ -11,6 +11,8 @@
 
 I am an undergraduate student in Computer Science at the Federal University of Ceará, passionate about the world of data and its applications. Currently, I am seeking opportunities to apply all the knowledge I have acquired. My background includes: **Business Analytics**, **DataViz**, **Machine Learning**, and **Web Scraping**.
 
+<h2>My Data Stack<h2>
+  
 <table>
   <tr>
     <td align="center">
@@ -26,14 +28,14 @@ I am an undergraduate student in Computer Science at the Federal University of C
     </td>
     <td align="center">
       <h3>ETL/ELT</h3>
-      <img src="https://img.icons8.com/color/48/apache-spark.png" alt="Apache Spark" width="40" height="40"/>
-      <img src="https://img.icons8.com/color/48/apache-airflow.png" alt="Apache Airflow" width="40" height="40"/>
-      <img src="https://img.icons8.com/color/48/apache-kafka.png" alt="Apache Kafka" width="40" height="40"/>
+      <img src="https://images.icon-icons.com/2699/PNG/512/apache_spark_logo_icon_170560.png" alt="Apache Spark" width="40" height="40"/>
+      <img src="https://airflow.apache.org/docs/apache-airflow/2.2.2/_images/pin_large.png" alt="Apache Airflow" width="40" height="40"/>
+      <img src="https://images.icon-icons.com/2699/PNG/512/apache_nifi_logo_icon_168614.png" alt="Apache NiFi" width="40" height="40"/>
     </td>
     <td align="center">
       <h3>Cloud</h3>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" alt="AWS" width="40" height="40"/>
-      <img src="" alt="Databricks" width="40" height="40"/>
+      <img src="https://asset.brandfetch.io/idSUrLOWbH/idQeSz8UHv.svg?updated=1668081624532" alt="Databricks" width="40" height="40"/>
     </td>
     <td align="center">
       <h3>Deploy</h3>
@@ -43,17 +45,6 @@ I am an undergraduate student in Computer Science at the Federal University of C
     </td>
   </tr>
 </table>
-
-
-
-## **Tools and Clouds**
-
-<div>
-   <a href=""><img align="center" alt="Databricks" height="40" width="40" src="https://asset.brandfetch.io/idSUrLOWbH/idQeSz8UHv.svg?updated=1668081624532"></a>
-  <a href=""><img align="center" alt="Jupyter" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg"></a>
-  <a href=""><img align="center" alt="Azure" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg"></a> 
-  <a href=""><img align="center" alt="AWS" height="40" width="40" src=""></a> 
-<div>
 
 ## **Stats**
 
