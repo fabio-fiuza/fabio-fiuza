@@ -1,15 +1,9 @@
-<div>
-  <a href="mailto:fabiio.fiuza@gmail.com"><img align="center" alt="Gmail" height="50" width="50" src="https://img.icons8.com/color/48/gmail-new.png" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/fábio-fiúza-7846b2275/"><img align="center" alt="Linkedin" height="50" width="50" src="https://img.icons8.com/color/48/linkedin.png" target="_blank"></a> 
-  <a href="https://www.kaggle.com/fbiofiuza"><img align="center" alt="Kaggle" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kaggle/kaggle-original-wordmark.svg" target="_blank"></a> 
-  <a href="https://www.kaggle.com/fbiofiuza"><img align="center" alt="Kaggle" height="50" width="50" src="https://img.icons8.com/?size=100&id=59ar0n9vAicz&format=png&color=000000" target="_blank"></a> 
-<div>
 
-<sub>**Data Scientist**</sub>
+<h1>Data Scientist</h1>
 
-## **About Me**
+<h2>About Me</h2>
 
-I am an undergraduate student in Computer Science at the Federal University of Ceará, passionate about the world of data and its applications. Currently, I am seeking opportunities to apply all the knowledge I have acquired. My background includes: **Business Analytics**, **DataViz**, **Machine Learning**, and **Web Scraping**.
+Hello! I am Fábio Fiúza, a Computer Science student at the Federal University of Ceará. I have **hands-on experience in optimizing industrial production processes** using data-driven solutions. **My passion is using data to increase revenue, reduce operational costs, and improve quality of life.** I am currently seeking a paid opportunity as a  data scientist, where I can apply my knowledge and further develop my skills.
 
 <h3>My Data Stack<h3>
   
@@ -51,8 +45,13 @@ I am an undergraduate student in Computer Science at the Federal University of C
   </tr>
 </table>
 
-
-    
+<h3>Contact Me</h3>
+<div>
+  <a href="mailto:fabiio.fiuza@gmail.com"><img align="center" alt="Gmail" height="50" width="50" src="https://img.icons8.com/color/48/gmail-new.png" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/fábio-fiúza-7846b2275/"><img align="center" alt="Linkedin" height="50" width="50" src="https://img.icons8.com/color/48/linkedin.png" target="_blank"></a> 
+  <a href="https://www.kaggle.com/fbiofiuza"><img align="center" alt="Kaggle" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kaggle/kaggle-original-wordmark.svg" target="_blank"></a> 
+  <a href="https://www.kaggle.com/fbiofiuza"><img align="center" alt="Kaggle" height="50" width="50" src="https://img.icons8.com/?size=100&id=59ar0n9vAicz&format=png&color=000000" target="_blank"></a> 
+<div>
 
 
 ## **Stats**
