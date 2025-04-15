@@ -49,10 +49,10 @@
 
 <h3>Contact Me</h3>
 <div>
-  <a href="mailto:fabiio.fiuza@gmail.com"><img align="center" alt="Gmail" height="50" width="50" src="https://img.icons8.com/color/48/gmail-new.png" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/fábio-fiúza-7846b2275/"><img align="center" alt="Linkedin" height="50" width="50" src="https://img.icons8.com/color/48/linkedin.png" target="_blank"></a> 
-  <a href="https://www.kaggle.com/fbiofiuza"><img align="center" alt="Kaggle" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kaggle/kaggle-original-wordmark.svg" target="_blank"></a> 
-  <a href="https://medium.com/@fabiio.fiuza"><img align="center" alt="Medium" height="50" width="50" src="https://cdn.iconscout.com/icon/free/png-256/free-medium-logo-icon-download-in-svg-png-gif-file-formats--social-media-communication-network-pack-logos-icons-3201557.png" target="_blank"></a> 
+  <a href="mailto:fabiio.fiuza@gmail.com"><img align="center" alt="Gmail" height="40" width="40" src="https://img.icons8.com/color/48/gmail-new.png" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/fábio-fiúza-7846b2275/"><img align="center" alt="Linkedin" height="40" width="40" src="https://img.icons8.com/color/48/linkedin.png" target="_blank"></a> 
+  <a href="https://www.kaggle.com/fbiofiuza"><img align="center" alt="Kaggle" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kaggle/kaggle-original-wordmark.svg" target="_blank"></a> 
+  <a href="https://medium.com/@fabiio.fiuza"><img align="center" alt="Medium" height="40" width="40" src="https://cdn.iconscout.com/icon/free/png-256/free-medium-logo-icon-download-in-svg-png-gif-file-formats--social-media-communication-network-pack-logos-icons-3201557.png" target="_blank"></a> 
 <div>
 
 
