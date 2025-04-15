@@ -4,7 +4,7 @@
 <h3>About Me</h3>
 
 <p>
-  Hello! I am Fábio Fiúza, a Computer Science student at the Universidade Federal do Ceará. I have <strong>hands-on experience in optimizing industrial production processes</strong> using data-driven solutions. I leverage my knowledge in <strong>machine learning</strong> and <strong>business analytics</strong> to increase revenue, reduce operational costs, and improve quality of life. I am currently seeking a paid opportunity as a data scientist, where I can apply my knowledge and further develop my skills.
+  Hello! I am Fábio Fiúza, a Computer Science student at the Universidade Federal do Ceará. I have <strong>hands-on experience in optimizing industrial production processes</strong> using data-driven solutions.I leverage my knowledge in machine learning and business analytics to increase revenue, reduce operational costs, and enhance decision-making and user experience through data. I am currently seeking a paid opportunity as a data scientist, where I can apply my knowledge and further develop my skills.
 </p>
 
 <h3>My Data Stack<h3>
