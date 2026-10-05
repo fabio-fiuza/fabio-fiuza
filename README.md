@@ -1,14 +1,14 @@
 
-<h1>Full Stack Data Professional</h1>
+<h1>Data Science  Analytics Enginner/h1>
 
 <h3>About Me</h3>
 
 <p>
- Hello! I'm Fábio Fiúza, a Computer Science graduate from the Universidade Federal do Ceará (UFC) and a **Data Engineer** with hands-on experience across data engineering, data science, and analytics.
+ Hello! I'm Fábio Fiúza, a Computer Science graduate from the Universidade Federal do Ceará (UFC) and a *Data Scientist* with hands-on experience across data engineering, data science, and analytics.
 
 I've built and maintained **data pipelines and lakehouse architectures** using Python, SQL, PySpark, and Databricks, and I've worked on **industrial data transformation** with Databricks and Power BI. I combine solid engineering foundations with machine learning and business analytics to turn raw data into reliable, decision-ready assets: reducing operational costs, improving data quality, and enabling better decisions.
 
-**Tech stack:** Python · SQL · PySpark · Databricks · AWS (S3, EC2) · PostgreSQL · dbt · Star Schema modeling · n8n · Power BI. Currently deepening my knowledge of **Snowflake**.
+**Tech stack:** Python · SQL · PySpark · Databricks · AWS (S3, EC2) · PostgreSQL · dbt · Star Schema modeling · n8n · Power BI. Currently deepening my knowledge of *Snowflake*.
 
 I'm currently seeking a **Data Engineer** opportunity where I can apply my skills, keep growing, and deliver impact with data.
 </p>
